@@ -107,7 +107,7 @@ CREATE TABLE IF NOT EXISTS productos (
     REFERENCES categorias(id_categoria)
 );
 
--- 🔥 CORREGIDO: ahora es RELACIONAL
+
 CREATE TABLE IF NOT EXISTS pedidos (
     id_pedido INT AUTO_INCREMENT PRIMARY KEY,
 
