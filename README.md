@@ -1,3 +1,6 @@
+Integrantes 
+Nicolle Garcia -Ximena Ruiz- Andres Triana
+
 Objetivo General
 
 Desarrollar una aplicación web utilizando Spring Boot y Thymeleaf que permita la gestión de pedidos de una empresa de repostería de manera eficiente, facilitando el control de productos, usuarios, pagos y reportes mediante una plataforma moderna y segura.
